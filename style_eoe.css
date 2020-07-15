@@ -27,7 +27,7 @@ body{
 .title span {
   font-size: 20px; 
   color: #7f5d00;
-  text-transform: uppercase;
+  /*text-transform: uppercase;*/
 }
 
 .head-ruler {
@@ -36,8 +36,17 @@ body{
   border:3px solid #7f5d00;
 }
 
+h2{
+  font-weight: 700;
+}
+
+h3 {
+  font-weight: 700;
+}
+
 h4 {
   text-align: center;
+  font-weight: 600;
 }
 
 p {
@@ -63,7 +72,7 @@ p {
  }
  
  .third-container  .secondl {
-   bottom: 125px;
+   bottom: 135px;
    position: relative;
  }
  
