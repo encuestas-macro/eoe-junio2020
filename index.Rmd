@@ -33,13 +33,13 @@ Encuesta de Opinión Empresarial</h2>
 
 <!-- ---------------------------------------------------------------------------------------------- -->
 
-### La situación económica del sector manufacturero por debajo de su nivel histórico
+### Situación económica por debajo de su nivel histórico
 <div class = "first-container">
 <div class= "left">
 
-Los empresarios del sector industrial continúan con una percepción poco favorable sobre su situación económica. En junio el indicador que resume esta variable volvió a experimentar una contracción al pasar de -12.0 en mayo a -26.9, el cuarto mes en terreno negativo.
+Para junio, el sector manufacturero se muestra poco optimista en cuando a su situación económica, en efecto, el indicador que resume esta variable nuevamente muestra una contracción al pasar de -12.0 en mayo a -26.9, para mantenerse por cuarto mes en terreno negativo.
 
-El indicador de nivel de inventario se mantiene de igual manera con resultados negativos, con un balance de -26.1. Un saldo negativo en el nivel de inventario se interpreta como una desacumulación y es coherente con episodios de baja producción como los reportados por el sector en la coyuntura actual.
+En cuanto al nivel de inventario, este sigue mostrando resultados negativos con un saldo de opinión de -26.1, evidenciando una reducción en los mismos asociada a la pandemia del COVID-19. Del total de empresas encuestadas, el 47.8% manifestó que su nivel de inventario disminuyó, mientras que el 34.8% indicó no haber experimentado cambios en el mismo.
 
 </div>
 
@@ -59,9 +59,9 @@ dyg_sit_econ
 
 <div class= "left">
 
-Para el levantamiento de junio 2020 los indicadores que resumen la evolución de la producción, los pedidos y el empleo mantiene la tendencia positiva iniciada en mayo. Los tres indicadores registraron aumentos importantes, resaltando en este sentido el saldo del nivel de pedidos al pasar de -13.0 a 32.0.
+Para el levantamiento de junio 2020, los indicadores que resumen la evolución de la producción, los pedidos y el empleo mantienen la tendencia positiva iniciada en mayo. Los tres indicadores registraron aumentos importantes, resaltando el saldo del nivel de pedidos al pasar de -13.0 a 32.0.
 
-Los indicadores de producción y empleo por su parte registraron saldos de 15.4 y 0.0. Ambos abandonan el terreno negativo después de registrar mínimos históricos en el mes de abril.
+Los indicadores de producción y empleo por su parte registraron saldos de 15.4 y 0.0, respectivamente. Este comportamiento corresponde a un cambio de tendencia, abandonando el terreno negativo después de registrar mínimos históricos en el sondeo del mes de abril.
 
 </div>
 
@@ -76,12 +76,12 @@ dyg_produccion_pedidos
 
 
 <!-- ---------------------------------------------------------------------------------------------- -->
-### Los empresarios mantienen sus expectativas favorables para el 2020
+### Las expectativas de situación económica del sector continúan optimistas
 ***
 <div class = "third-container">
 <div class= "left first">
 
-El sector industrial se mantiene optimista en cuanto a las expectativas de sus principales variables. En este sentido, el indicador que recoge las expectativas para la situación económica de los próximos seis meses se mantiene en terreno positivo por tercer mes consecutivo, mostrando un saldo 46.2.
+El sector industrial se mantiene optimista en cuanto a las expectativas de sus principales variables. Así, el indicador que recoge las expectativas para la situación económica de los próximos seis meses muestra un saldo positivo por tercer mes consecutivo, alcanzando un 46.2 en junio.
 
 </div>
 
@@ -94,9 +94,9 @@ dyg_exp_sit_econ
 </div>
 
 <div class= "left secondl">
-De igual forma, las expectativas de producción y empleo siguen marcando saldos favorables. El saldo de opinión sobre la producción para los próximos 3 meses se coloca en 46.2, con solo 7.7% de las empresas considerando que su producción se reduciría en los próximos meses. 
+De igual forma, las expectativas de producción y empleo siguen marcando saldos favorables. El saldo de opinión sobre la producción para los próximos 3 meses se coloca en 46.2.  De forma específica, solo un 7.7% de las empresas considera que su producción se reduciría en los próximos meses. 
 
-Por su parte, el indicador sobre las expectativas de empleo se mantine oscilando alrededor de 0.0, comportamiento típico en este indicador por la alta proporción de empresas que responde que mantendría constante la cantidad de empleados. 
+Por su parte, el indicador sobre las expectativas de empleo se mantiene oscilando alrededor de 0.0, comportamiento típico en este indicador por la alta proporción de empresas que responde que mantendría constante la cantidad de empleados. 
 </div>
 
 <div class= "right second">
@@ -116,7 +116,7 @@ dyg_exp_prod_empleo
 <div class = "fourth-container">
 <div class= "left first">
 
-El Índice de Confianza Industrial (ICI) resume la actividad actual y las expectativas de actividad futura de las empresas del sector manufacturero en base a variables observables de las empresas. Para junio 2020, el indicador se coloca por encima de su nivel previo a  la pandemia mostrando un saldo de 67.4. Este comportamiento viene guiado principalmente por el incremento en la cantidad de pedidos.
+El Índice de Confianza Industrial (ICI) resume la actividad actual y las expectativas de actividad futura de las empresas del sector manufacturero en base a variables observables de las empresas. Para junio 2020, el indicador se coloca por encima de su nivel previo a la pandemia mostrando un saldo de 67.4. Este comportamiento viene guiado principalmente por el incremento en la cantidad de pedidos y la percepción favorable de la producción en los próximos tres meses.
 
 </div>
 
@@ -130,7 +130,7 @@ dyg_ici
 </div>
 
 <div class = "left secondl">
-Asimismo, la percepción que tienen los empresarios del sector acerca de la situación económica actual y futura de sus empresas se sintetiza a través del Indicador de Clima Empresarial (ICE). Para este sondeo el indicador se coloca en el flanco positivo mostrando un saldo de 6.4, pra una ligera contracción respecto al regisrado en mayo.
+Asimismo, la percepción que tienen los empresarios del sector acerca de la situación económica actual y futura de sus empresas se sintetiza a través del Indicador de Clima Empresarial (ICE). Para este sondeo el indicador se coloca por encima de cero, mostrando un saldo de 6.4, para una ligera contracción respecto al registrado en el levantamiento de mayo. El comportamiento en el indicador obedece a una percepción de la situación económica actual menos optimista.
 </div>
 
 <div class = "right second">
